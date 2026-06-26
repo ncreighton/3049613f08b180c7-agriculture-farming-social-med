@@ -1,0 +1,2 @@
+# 3049613f08b180c7-agriculture-farming-social-med
+Every farmers and agricultural operations managers needs this — most just don't know it yet.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Agriculture Farming Social Media Content Distribution — fully configured and ready to
